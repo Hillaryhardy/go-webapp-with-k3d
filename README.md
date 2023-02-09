@@ -1,6 +1,6 @@
-# web-app-template
+# web-app-template-k3d
 
-Simple web app template written with Golang + Bootstrap 4
+Simple web app template written with Golang + Bootstrap 4 to be used to showcase the power of k3d
 
 ## Usage
 
@@ -24,3 +24,4 @@ Get result
 This repo is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).  
 You are welcome to contribute!
 # k3d-with-go
+# go-webapp-with-k3d
