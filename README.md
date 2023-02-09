@@ -1,6 +1,7 @@
 # web-app-template-k3d
 
 Simple web app template written with Golang + Bootstrap 4 to be used to showcase the power of k3d
+containerized application to a Kubernetes cluster.
 
 ## Usage
 
