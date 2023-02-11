@@ -34,7 +34,7 @@ First, let’s create a file named Dockerfile at the project root and add the fo
 
 # Dockerfile
 
-![Demo](Dockerfile.PNG)
+![Docker](dockerfile.png)
 
 
 Using the “golang alpine” image for its compact size
